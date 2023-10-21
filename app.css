@@ -1,0 +1,17 @@
+h1 {
+    color: burlywood
+}
+.bio{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.bio_images{
+    width: 50%;
+    height: 70%;
+}
+.projects{
+    display: flex;
+    flex-direction: column;
+}
